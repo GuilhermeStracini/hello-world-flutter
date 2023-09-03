@@ -1,6 +1,6 @@
 # Hello World Flutter
 
-:books: A repository to learn Flutter
+:books: A repository to learn [Flutter](https://flutter.dev/)
 
 [![wakatime](https://wakatime.com/badge/github/GuilhermeStracini/hello-world-flutter.svg)](https://wakatime.com/badge/github/GuilhermeStracini/hello-world-flutter)
 [![Maintainability](https://api.codeclimate.com/v1/badges/498b814c604e024fd02b/maintainability)](https://codeclimate.com/github/GuilhermeStracini/hello-world-flutter/maintainability)
