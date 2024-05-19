@@ -3773,7 +3773,7 @@ var HttpConnection = /** @class */ (function () {
                     case 4:
                         if (!this.isITransport(transportOrError)) return [3 /*break*/, 12];
                         this.transport = transportOrError;
-                        if (!!negotiate) return [3 /*break*/, 9];
+                        if (negotiate) return [3 /*break*/, 9];
                         _a.label = 5;
                     case 5:
                         _a.trys.push([5, 7, , 8]);
