@@ -25,9 +25,6 @@ name = "dart"
 
 enabled = true
 
-  [analyzers.meta]
-  flutter = true
-
   [analyzers.config]
   # Enforce formatting consistency
   formatter = "dartfmt"
@@ -41,10 +38,6 @@ enabled = true
 name = "test-coverage"
 
 enabled = true
-
-  [analyzers.meta]
-  # Flutter coverage output location
-  coverage_file = "coverage/lcov.info"
 
   # Minimum acceptable coverage threshold (optional but recommended)
   # Adjust as your project matures
